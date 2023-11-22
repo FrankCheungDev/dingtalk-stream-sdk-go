@@ -1,6 +1,6 @@
 package client
 
-import "github.com/open-dingtalk/dingtalk-stream-sdk-go/handler"
+import "github.com/FrankCheungDev/dingtalk-stream-sdk-go/handler"
 
 /**
  * @Author linya.jj

@@ -3,7 +3,7 @@ package card
 import (
 	"context"
 	"encoding/json"
-	"github.com/open-dingtalk/dingtalk-stream-sdk-go/payload"
+	"github.com/FrankCheungDev/dingtalk-stream-sdk-go/payload"
 )
 
 type ICardCallbackHandler func(c context.Context, request *CardRequest) (*CardResponse, error)

@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/open-dingtalk/dingtalk-stream-sdk-go/payload"
+	"github.com/FrankCheungDev/dingtalk-stream-sdk-go/payload"
 )
 
 /**

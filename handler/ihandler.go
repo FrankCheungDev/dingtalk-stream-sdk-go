@@ -3,7 +3,7 @@ package handler
 import (
 	"context"
 
-	"github.com/open-dingtalk/dingtalk-stream-sdk-go/payload"
+	"github.com/FrankCheungDev/dingtalk-stream-sdk-go/payload"
 )
 
 /**

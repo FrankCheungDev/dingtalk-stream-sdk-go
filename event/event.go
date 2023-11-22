@@ -3,7 +3,7 @@ package event
 import (
 	"strconv"
 
-	"github.com/open-dingtalk/dingtalk-stream-sdk-go/payload"
+	"github.com/FrankCheungDev/dingtalk-stream-sdk-go/payload"
 )
 
 /**
